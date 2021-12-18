@@ -1,4 +1,4 @@
-## nfl_fastR
+# nfl_fastR
 
 In a new cell, call the function plot_data(team_name, stat, side)
 
@@ -8,7 +8,7 @@ team_name --> abbreviated name of targeted team
 stat --> targeted stat
 side --> offense or defense
 
-# Team Names:
+## Team Names:
 Arizona:'ARI'
 Atlanta: 'ATL'
 Baltimore: 'BAL'
@@ -42,7 +42,7 @@ Tampa Bay:'TB'
 Tennessee: 'TEN'
 Washington: 'WAS'
 
-# Stats:
+## Stats:
 epa: epa on both pass and rush plays
 pass_epa: epa on passing plays
 rush_epa: epa on rushing plays
@@ -50,7 +50,7 @@ success: success rate (%) on pass and rush plays
 pass_success: success rate (%) on pass plays
 rush_success: success rate (%) on rush plays
       
-# Example:
+## Example:
 
 plot_data("GB" , "pass_success", "defense") --> this gets the pass success rate of the opponent when GB is on defense. 
        
