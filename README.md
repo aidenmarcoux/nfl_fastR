@@ -9,38 +9,38 @@ stat --> targeted stat
 side --> offense or defense
 
 ## Team Names:
-Arizona:'ARI'
-Atlanta: 'ATL'
-Baltimore: 'BAL'
-Buffalo: 'BUF'
-Carolina: 'CAR'
-Chicago:'CHI'
-Cincinnati: 'CIN'
-Cleveland: 'CLE'
-Dallas:'DAL'
-Denver: 'DEN'
-Detroit:'DET'
-Green Bay:'GB'
-Houston: 'HOU'
-Indianapolis: 'IND'
-Jacksonville: 'JAX'
-Kansas City: 'KC'
-Los Angelas (Rams):'LA'
-Los Angelas (Chargers): 'LAC'
-Las Vegas: 'LV'
-Miami: 'MIA'
-Minnesota:'MIN'
-New England:'NE'
-New Orleans: 'NO'
-New York (Giants):'NYG',
-New York (Jets): 'NYJ'
-Philedelphia: 'PHI'
-Pittsburgh: 'PIT'
-Seattle: 'SEA'
-San Francisco: 'SF'
-Tampa Bay:'TB'
-Tennessee: 'TEN'
-Washington: 'WAS'
+Arizona:'ARI'<br/>
+Atlanta: 'ATL'<br/>
+Baltimore: 'BAL'<br/>
+Buffalo: 'BUF'<br/>
+Carolina: 'CAR'<br/>
+Chicago:'CHI'<br/>
+Cincinnati: 'CIN'<br/>
+Cleveland: 'CLE'<br/>
+Dallas:'DAL'<br/>
+Denver: 'DEN'<br/>
+Detroit:'DET'<br/>
+Green Bay:'GB'<br/>
+Houston: 'HOU'<br/>
+Indianapolis: 'IND'<br/>
+Jacksonville: 'JAX'<br/>
+Kansas City: 'KC'<br/>
+Los Angelas (Rams):'LA'<br/>
+Los Angelas (Chargers): 'LAC'<br/>
+Las Vegas: 'LV'<br/>
+Miami: 'MIA'<br/>
+Minnesota:'MIN'<br/>
+New England:'NE'<br/>
+New Orleans: 'NO'<br/>
+New York (Giants):'NYG'<br/>
+New York (Jets): 'NYJ'<br/>
+Philedelphia: 'PHI'<br/>
+Pittsburgh: 'PIT'<br/>
+Seattle: 'SEA'<br/>
+San Francisco: 'SF'<br/>
+Tampa Bay:'TB'<br/>
+Tennessee: 'TEN'<br/>
+Washington: 'WAS'<br/>
 
 ## Stats:
 epa: epa on both pass and rush plays
